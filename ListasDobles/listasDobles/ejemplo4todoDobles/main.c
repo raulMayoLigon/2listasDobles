@@ -6,6 +6,7 @@ struct tipoInfo {
     char nombre[31];
     char numero [16];
     char correo [51];
+    char o[5];
 };
 
 struct tipoNodo {
